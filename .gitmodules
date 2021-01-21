@@ -1,0 +1,16 @@
+[submodule "GameEngine/external/GLFW"]
+	path = GameEngine/external/GLFW
+	url = https://github.com/Brandon-Smith-457/glfw
+[submodule "GameEngine/external/glm"]
+	path = GameEngine/external/glm
+	url = https://github.com/g-truc/glm
+[submodule "GameEngine/external/spdlog"]
+	path = GameEngine/external/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "GameEngine/external/imgui"]
+	path = GameEngine/external/imgui
+	url = https://github.com/Brandon-Smith-457/imgui
+	branch = docking
+[submodule "GameEngine/external/PhysicsEngine"]
+	path = GameEngine/external/PhysicsEngine
+	url = https://github.com/Brandon-Smith-457/PhysicsEngine.git
